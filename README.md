@@ -21,7 +21,3 @@ SimpleToken is a basic Ethereum smart contract written in Solidity that implemen
 ## Example Deployment
 
 ```bash
-# Compile the contract (using solc compiler)
-solc --bin --abi --optimize -o ./compiled/ SimpleToken.sol
-
-# Deploy the contract using TEA Protocol tools or Ethereum-compatible tooling
